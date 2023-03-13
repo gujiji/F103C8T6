@@ -10,6 +10,5 @@ void main(void)
     {
         printf("%d/n",i);
     }
-    printf("stm32f103c8t6 to do biyesheji for chenguisheng \n");
     return 0;
 }
